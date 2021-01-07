@@ -1,0 +1,16 @@
+[submodule "smcppsdk"]
+	path = smcppsdk
+	url = https://github.com/MoeMod/smcppsdk.git
+[submodule "smsdk_ext-cmake"]
+	path = smsdk_ext-cmake
+	url = https://github.com/MoeMod/smsdk_ext-cmake.git
+[submodule "sourcemod"]
+	path = sourcemod
+	url = https://github.com/alliedmodders/sourcemod.git
+[submodule "metamod-source"]
+	path = metamod-source
+	url = https://github.com/alliedmodders/metamod-source.git
+[submodule "hl2sdk-csgo"]
+	path = hl2sdk-csgo
+	url = https://github.com/alliedmodders/hl2sdk.git
+	branch = csgo
